@@ -1,5 +1,5 @@
 import Taro, { Component, Config } from '@tarojs/taro'
-import Index from './pages/view/view'
+import Index from './pages/audio/audio'
 
 import './app.scss'
 
@@ -20,6 +20,7 @@ class App extends Component {
    */
   config: Config = {
     pages: [
+      'pages/audio/audio',
       'pages/view/view',
       'pages/index/index'
     ],
