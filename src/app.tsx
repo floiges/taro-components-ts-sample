@@ -23,6 +23,7 @@ class App extends Component {
       'pages/index/index',
       'pages/audio/audio',
       'pages/view/view',
+      'pages/video/video',
     ],
     window: {
       backgroundTextStyle: 'light',
