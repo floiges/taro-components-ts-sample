@@ -1,0 +1,10 @@
+.components-page__body {
+  padding: 0;
+  .example-body {
+    padding-left: 30px;
+    padding-right: 30px;
+    &__button {
+      text-align: center;
+    }
+  }
+}

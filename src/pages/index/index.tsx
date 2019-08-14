@@ -75,7 +75,7 @@ export default class Index extends Component<{}, IState> {
           name: '表单组件',
           open: false,
           imgSrc: '',
-          pages: []
+          pages: ['textarea']
         },
         {
           id: 'nav',
