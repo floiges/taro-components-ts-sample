@@ -68,7 +68,7 @@ export default class Index extends Component<{}, IState> {
           name: '基础内容',
           open: false,
           imgSrc: '',
-          pages: []
+          pages: ['text']
         },
         {
           id: 'form',
