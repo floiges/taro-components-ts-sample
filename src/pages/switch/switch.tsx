@@ -2,7 +2,7 @@ import { Component, Config } from '@tarojs/taro'
 import { View, Text, Switch } from '@tarojs/components'
 import Header from '../../components/head/head'
 import { CommonEvent } from '@tarojs/components/types/common'
-import './swtich.scss'
+import './switch.scss'
 
 interface IState {
   isChecked: boolean
