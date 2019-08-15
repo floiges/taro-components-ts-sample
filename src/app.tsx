@@ -26,6 +26,7 @@ class App extends Component {
       'pages/video/video',
       'pages/textarea/textarea',
       'pages/text/text',
+      'pages/switch/switch',
     ],
     window: {
       backgroundTextStyle: 'light',
