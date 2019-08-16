@@ -61,7 +61,7 @@ export default class Index extends Component<{}, IState> {
           name: '视图容器',
           open: false,
           imgSrc: '',
-          pages: ['view']
+          pages: ['view', 'scroll-view']
         },
         {
           id: 'content',
