@@ -27,6 +27,7 @@ class App extends Component {
       'pages/textarea/textarea',
       'pages/text/text',
       'pages/switch/switch',
+      'pages/button/button',
     ],
     window: {
       backgroundTextStyle: 'light',

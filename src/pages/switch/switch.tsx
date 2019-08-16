@@ -13,7 +13,7 @@ export default class PageSwitch extends Component<{}, IState> {
     navigationBarTitleText: 'Switch'
   }
 
-  state = {
+  state: IState = {
     isChecked: true
   }
 
