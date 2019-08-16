@@ -1,5 +1,5 @@
 import { Component, Config } from '@tarojs/taro'
-import { View, Text, ScrollView, Button } from '@tarojs/components'
+import { View, Text, ScrollView } from '@tarojs/components'
 import Header from '../../components/head/head'
 import './scroll-view.scss'
 
