@@ -29,6 +29,7 @@ class App extends Component {
       'pages/switch/switch',
       'pages/button/button',
       'pages/scroll-view/scroll-view',
+      'pages/swiper/swiper',
     ],
     window: {
       backgroundTextStyle: 'light',

@@ -29,7 +29,7 @@ export default class PageView extends Component {
           </View>
           <View className='components-page__body-example example'>
             <View className='example-header'>
-              <Text> Horizontal </Text>
+              <Text> Vertical </Text>
             </View>
             <View className='example-body example-body--vertical'>
               <ScrollView scrollY scrollWithAnimation className='example-body__scroll-view'>
