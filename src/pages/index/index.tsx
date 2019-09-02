@@ -96,14 +96,14 @@ export default class Index extends Component<{}, IState> {
           name: '地图',
           open: false,
           imgSrc: '',
-          pages: []
+          pages: ['map']
         },
         {
           id: 'canvas',
           name: '画布',
           open: false,
           imgSrc: '',
-          pages: []
+          pages: ['canvas']
         }
       ]
     }

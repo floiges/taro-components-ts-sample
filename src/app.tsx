@@ -32,6 +32,8 @@ class App extends Component {
       'pages/swiper/swiper',
       'pages/image/image',
       'pages/camera/camera',
+      'pages/canvas/canvas',
+      'pages/map/map',
     ],
     window: {
       backgroundTextStyle: 'light',
