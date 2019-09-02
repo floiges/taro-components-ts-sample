@@ -30,6 +30,8 @@ class App extends Component {
       'pages/button/button',
       'pages/scroll-view/scroll-view',
       'pages/swiper/swiper',
+      'pages/image/image',
+      'pages/camera/camera',
     ],
     window: {
       backgroundTextStyle: 'light',

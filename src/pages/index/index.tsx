@@ -89,7 +89,7 @@ export default class Index extends Component<{}, IState> {
           name: '媒体组件',
           open: false,
           imgSrc: '',
-          pages: ['audio', 'video']
+          pages: ['audio', 'video', 'image', 'camera']
         },
         {
           id: 'map',
